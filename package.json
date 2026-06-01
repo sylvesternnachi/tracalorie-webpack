@@ -4,7 +4,7 @@
   "description": " App to track Calories Meals and Workout",
   "main": "app.js",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --mode production",
     "dev": "webpack serve"
   },
   "author": "Sylvester Nnachi",
